@@ -4,9 +4,12 @@
 
 Soy un estudiante apasionado por la tecnología, la programación y la ciberseguridad. Me gusta aprender cómo funcionan las computadoras, resolver problemas mediante código y explorar nuevas herramientas que me ayuden a mejorar como profesional.
 
-Software usado:
-![PYTHON](https://imgs.search.brave.com/DgrW2NrOIgEb19Aenbrs0e5lUuBjuM7EzxLVsDCbxTk/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9mL2Y4L1B5/dGhvbl9sb2dvX2Fu/ZF93b3JkbWFyay5z/dmcvMjUwcHgtUHl0/aG9uX2xvZ29fYW5k/X3dvcmRtYXJrLnN2/Zy5wbmc_dXRtX3Nv/dXJjZT13d3cud2lr/aWRhdGEub3JnJmFt/cDt1dG1fY2FtcGFp/Z249cmVzdCZhbXA7/dXRtX2NvbnRlbnQ9/dGh1bWJuYWls)
-![SQL](https://imgs.search.brave.com/SnZXFd7ZRIzFu6Tgfn485iBE57_djzBCghNDv9UTkt8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi8wLzBhL015/U1FMX3RleHRsb2dv/LnN2Zy8yNTBweC1N/eVNRTF90ZXh0bG9n/by5zdmcucG5nP3V0/bV9zb3VyY2U9d3d3/Lndpa2lkYXRhLm9y/ZyZhbXA7dXRtX2Nh/bXBhaWduPWluZGV4/JmFtcDt1dG1fY29u/dGVudD10aHVtYm5h/aWw)
+<h3 align="center">🛠️ Software usado</h3>
+
+<p align="center">
+  <img src="https://imgs.search.brave.com/DgrW2NrOIgEb19Aenbrs0e5lUuBjuM7EzxLVsDCbxTk/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9mL2Y4L1B5/dGhvbl9sb2dvX2Fu/ZF93b3JkbWFyay5z/dmcvMjUwcHgtUHl0/aG9uX2xvZ29fYW5k/X3dvcmRtYXJrLnN2/Zy5wbmc_dXRtX3Nv/dXJjZT13d3cud2lr/aWRhdGEub3JnJmFt/cDt1dG1fY2FtcGFp/Z249cmVzdCZhbXA7/dXRtX2NvbnRlbnQ9/dGh1bWJuYWls" alt="Python" width="120">
+  <img src="https://imgs.search.brave.com/ga7cJ4ptQWr58NmG7x1_abqx1AgGiiBekSfrsJS4Q-8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi8wLzBhL015/U1FMX3RleHRsb2dv/LnN2Zy8yNTBweC1N/eVNRTF90ZXh0bG9n/by5zdmcucG5nP3V0/bV9zb3VyY2U9d3d3/Lndpa2lkYXRhLm9y/ZyZhbXA7dXRtX2Nh/bXBhaWduPWluZGV4/JmFtcDt1dG1fY29u/dGVudD10aHVtYm5h/aWw" alt="SQL" width="120">
+</p>
 
 ## 🚀 Sobre mí
 
